@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: [CV](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/Resume.pdf)
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[CV.pdf](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/Resume.pdf)
 
 Education
 ======
