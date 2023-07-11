@@ -68,7 +68,7 @@ Professional Services
   * International Workshop on Deep Learning on Graphs (DLG)
   * International Conference on Computer Science and Application Engineering (CSAE)
 
-* title: Journal Reviewers
+* Journal Reviewers
   * Optimization Letters (OL)
   * Transactions on Big Data (TBD)
   * Transactions on Knowledge and Data Engineering (TKDE)
@@ -86,7 +86,7 @@ Professional Services
 
 Honors and Awards
 ======
-* ICDM Student Travel Award, 2018,2020
+* ICDM Student Travel Award, 2018, 2020
 * KDD Student Travel Award, 2019
 * Meritorious Winner in the Mathematical Contest in Modeling(MCM) in the United States, 2011
 * Second Prize in the Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM) in China, 2010
