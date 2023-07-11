@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: CV
+title: [CV](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/Resume.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
