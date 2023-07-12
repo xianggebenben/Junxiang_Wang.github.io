@@ -7,10 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Junxiang Wang is a researcher at [NEC Laboratories America](https://www.nec-labs.com/). He received his Ph.D. degree from the Department of Computer Science at Emory University in 2022. Before that, he received his Master’s degree and Bachelor’s degree from George Mason University in 2020 and East China Normal University in 2012, respectively. His research interests include data mining in social media, inverse problems on graphs, and nonconvex optimization in deep learning. He has published various research papers in top-tier conferences and journals such as KDD, ICDM, WWW, AAAI, Proceedings of the IEEE, and TNNLS. He has been invited to present his works in several optimization conferences.
+Junxiang Wang is a researcher at [NEC Laboratories America](https://www.nec-labs.com/). He received his Ph.D. degree from the Department of Computer Science at Emory University in 2022. Before that, he received his Master’s degree and Bachelor’s degree from George Mason University in 2020 and East China Normal University in 2012, respectively. His research interests include data mining in social media, inverse problems on graphs, and nonconvex optimization in deep learning. He has published various research papers in top-tier conferences and journals such as ICML,KDD, ICDM, WWW, AAAI, Proceedings of the IEEE, and TNNLS. He has been invited to present his works in several optimization conferences.
 
 News
 =======
+
+2023/6: Our survey paper "Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models" is available [online](https://arxiv.org/abs/2305.18703).
+
 2023/5: One paper is accepted by ICML 2023.
 
 2022/12: One paper is accepted by SDM 2023.

@@ -31,11 +31,11 @@ In this paper, we design a novel framework DeepIM to generatively characterize t
 
 
 
-| Graph            | #Node | #Edge | Average  Degree | Diameter | Link |
+<!-- | Graph            | #Node | #Edge | Average  Degree | Diameter | Link |
 |------------------|-------|-------|-----------------|----------|------|
 | Karate           | 34    | 78    | 2.294           | 5        |      |
 | Dolphins         | 62    | 159   | 5.129           | 8        |      |
 | Jazz             | 198   | 2742  | 13.848          | 9        |      |
 | Network  Science | 1589  | 2742  | 3.451           | 17       |      |
 | Cora-ML          | 2810  | 7981  | 5.680           | 17       |      |
-| Power  Grid      | 4941  | 6594  | 2.669           | 46       |      |
+| Power  Grid      | 4941  | 6594  | 2.669           | 46       |      | -->
