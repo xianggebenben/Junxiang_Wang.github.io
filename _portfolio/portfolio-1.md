@@ -1,6 +1,6 @@
 ---
 title: "Vaccine Adverse Event Detection on Social Media"
-excerpt:
+excerpt:""
 collection: portfolio
 ---
 
@@ -15,11 +15,7 @@ In this paper, we present a new semi-supervised multi-instance learning model to
 
 <p style="text-align: center;"><strong>Adverse Event Detection by Integrating Twitter Data and VAERS</strong></p>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="MILR.jpg" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+![image info](MILR.jpg)
 
 **Junxiang Wang**, Liang Zhao, Yanfang Ye, and Yuji Zhang. Adverse event detection by integrating Twitter data and VAERS. Journal of Biomedical Semantics, (impact factor: 1.845), 2018. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/JBMS2018/paper.pdf)
 
@@ -27,11 +23,7 @@ In this paper, we develop a combinatorial classification approach by integrating
 
 <p style="text-align: center;"><strong>Multi-instance Domain Adaptation for Vaccine Adverse Event Detection</strong></p>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="MIDA.png" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+![image info](MIDA.png)
 
 **Junxiang Wang** and Liang Zhao. Multi-instance Domain Adaptation for Vaccine Adverse Event Detection. 27th International World Wide Web Conference (WWW 2018), (acceptance rate: 14.8%), Lyon, FR, Apr 2018. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/WWW2018/MIDA.pdf) [code](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/WWW2018/MIDA.zip) [slides](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/WWW2018/Multi-instance%20Domain%20Adaptation%20for%20Vaccine%20Adverse%20Event%20Detection_modified.pdf)
 
