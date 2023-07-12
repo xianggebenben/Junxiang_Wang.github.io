@@ -18,7 +18,7 @@ $$\begin{align}
 &y^{k+1}\leftarrow y^k+\rho(Ax^{k+1}+Bz^{k+1}-c).
 \end{align}$$
 
-For more information, please refer to Boyd's [tutorial paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf).
+For more information, please refer to Boyd's [tutorial paper](https://stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf).
 
 Two types of nonconvex problems are addressed by ADMM below:
 
