@@ -29,7 +29,7 @@ Chen Ling, Junji Jiang, **Junxiang Wang**, My Thai, Lukas Xue, James Song, Meika
 
 In this paper, we design a novel framework DeepIM to generatively characterize the latent representation of seed sets for the influence maximization problem, and we propose to learn the diversified information diffusion pattern in a data-driven and end-to-end manner. Finally, we design a novel objective function to infer optimal seed sets under flexible node-centrality-based budget constraints.
 
-
+Common graphs for source localization and influence maximization will be provided below soon. Please stay tuned.
 
 <!-- | Graph            | #Node | #Edge | Average  Degree | Diameter | Link |
 |------------------|-------|-------|-----------------|----------|------|
