@@ -4,7 +4,9 @@ excerpt:
 collection: portfolio
 ---
 
-Due to the advantages and popularity of non-differentiable regularized and distributive computing for complex optimization problems, the Alternating Direction Method of Multipliers (ADMM) has received a great deal of attention in recent years. The standard ADMM was originally proposed to solve the following separable convex optimization problem:
+Due to the advantages and popularity of non-differentiable regularized and distributive computing for complex optimization problems, the Alternating Direction Method of Multipliers (ADMM) has received a great deal of attention in recent years. While the ADMM has been extensively applied in the convex problems, its extension on the nonconvex problems are not well-studied. This motivates me to explore nonconvex problems addressed by ADMM.
+
+The standard ADMM was originally proposed to solve the following separable convex optimization problem:
 
 $$\min_{x,z} f(x)+g(z)\ \ \ s.t. \ Ax+Bz=c.$$
 
@@ -18,7 +20,7 @@ $$\begin{align}
 
 For more information, please refer to Boyd's [tutorial paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf).
 
-While the ADMM has been extensively applied in the convex problems, its extension on the nonconvex problems are not well-studied. This motivates me to explore two different nonconvex problems addressed by ADMM.
+Two types of nonconvex problems are addressed by ADMM below:
 
 **1.The Nonlinear-Equality-Constrained Problem.** This problem can be formulated as follows:
 
