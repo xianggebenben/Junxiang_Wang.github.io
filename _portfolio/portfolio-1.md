@@ -24,7 +24,7 @@ In this paper, we develop a combinatorial classification approach by integrating
 
 <p style="text-align: center;"><strong>Multi-instance Domain Adaptation for Vaccine Adverse Event Detection</strong></p>
 
-<img src="https://raw.githubusercontent.com/xianggebenben/Junxiang_Wang.github.io/master/images/MIDA.png" alt="drawing" width="1000"/>
+<img src="https://raw.githubusercontent.com/xianggebenben/Junxiang_Wang.github.io/master/images/MIDA.png" alt="drawing" width="800"/>
 
 **Junxiang Wang** and Liang Zhao. Multi-instance Domain Adaptation for Vaccine Adverse Event Detection. 27th International World Wide Web Conference (WWW 2018), (acceptance rate: 14.8%), Lyon, FR, Apr 2018. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/WWW2018/MIDA.pdf) [code](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/WWW2018/MIDA.zip) [slides](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/WWW2018/Multi-instance%20Domain%20Adaptation%20for%20Vaccine%20Adverse%20Event%20Detection_modified.pdf)
 
