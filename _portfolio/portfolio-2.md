@@ -34,14 +34,14 @@ where $\nu>0$ is a tunning parameter. We propose a novel optimization framework 
 
 In this paper, we tackle Equation(1) by introducing inequality constraints as follows:
 
-$$\min\nolimits_{W_l,z_l,a_l} R(z_L;y)+(\rho/2)\sum\nolimits_{l=1}^L \Vert z_l-W_la_{l-1}\Vert^2_2 \ s.t. \ h_l(z_l)-\varepsilon\leq a_l\leq h_l(z_l)+\varepsilon (l=1,\cdots,L-1)$$
+$$\min{W_l,z_l,a_l} R(z_L;y)+(\rho/2)\sum\nolimits_{l=1}^L \Vert z_l-W_la_{l-1}\Vert^2_2 \ s.t. \ h_l(z_l)-\varepsilon\leq a_l\leq h_l(z_l)+\varepsilon (l=1,\cdots,L-1)$$
 
 where $\rho>0$ and $\varepsilon>0$ is tuning parameters. We propose a novel monotonous Deep Learning Alternating Minimization (mDLAM) algorithm. Our innovative inequality-constrained formulation infinitely approximates the original problem with non-convex equality constraints, enabling our convergence proof of the proposed mDLAM algorithm regardless of the choice of hyperparameters. Our mDLAM algorithm is shown to achieve a fast linear convergence by the Nesterov acceleration technique.
 
 <p style="text-align: center;"><strong>Toward Model Parallelism for Deep Neural Network based on Gradient-free ADMM Framework</strong></p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/xianggebenben/Junxiang_Wang.github.io/master/images/pdADMM.png" alt="drawing" width="1000"/>
+<img src="https://raw.githubusercontent.com/xianggebenben/Junxiang_Wang.github.io/master/images/pdadmm.png" alt="drawing" width="1000"/>
 </p>
 
 **Junxiang Wang**, Zheng Chai, Yue Cheng, Liang Zhao. Toward Model Parallelism for Deep Neural Network based on Gradient-free ADMM Framework. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2020), regular paper (acceptance rate: 9.8%), Sorrento, Italy, Nov 2020. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/ICDM2020/pdADMM.pdf) [code](https://github.com/xianggebenben/pdADMM) [slides](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/ICDM2020/pdADMM%20presentation.pdf)
