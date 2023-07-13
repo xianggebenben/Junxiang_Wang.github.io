@@ -94,4 +94,3 @@ Honors and Awards
 * Second Prize in the Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM) in China, 2010
 * Second Prize in the Undergraduate Mathematical Contest in Modeling by East China Normal University, 2009
   
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D4ogHZEj_T_81G2XdDA-XI7q4R_wO9XfuC8ziqkI4TY&cl=ffffff&w=a"></script>
