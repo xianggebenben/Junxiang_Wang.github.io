@@ -84,7 +84,3 @@ Zheng Zhang, **Junxiang Wang**, and Liang Zhao. Relational Curriculum Learning f
 
 **Junxiang Wang**, Hongyi Li, Liang Zhao. A Convergent ADMM Framework for Efficient Neural Network Training.
 
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D4ogHZEj_T_81G2XdDA-XI7q4R_wO9XfuC8ziqkI4TY&cl=ffffff&w=a"></script>
-
