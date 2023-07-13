@@ -37,7 +37,7 @@ Research Interests
 
 * Social Media Mining
   * Vaccine Adverse Event Detection
-  * etition Victory Prediction
+  * Petition Victory Prediction
 
 * Nonconvex Alternating Direction Method of Multipliers(ADMM)
   * Nonlinear Equality-Constrained Problems
