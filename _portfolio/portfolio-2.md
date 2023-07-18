@@ -15,7 +15,7 @@ $$\begin{equation}\min_{a_l,W_l,z_l} R(z_L;y). \ s.t.\ z_l=W_la_{l-1}\ (l=1,\cdo
 <p style="text-align: center;"><strong>ADMM for Efficient Deep Learning with Global Convergence</strong></p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/xianggebenben/Junxiang_Wang.github.io/master/images/dlADMM.jpg" alt="drawing" width="1000"/>
+<img src="https://raw.githubusercontent.com/xianggebenben/Junxiang_Wang.github.io/master/images/dlADMM.png" alt="drawing" width="1000"/>
 </p>
 
 **Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. ADMM for Efficient Deep Learning with Global Convergence. in Proceedings of the 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2019), research track (acceptance rate: 14.2%), Alaska, USA, Aug 2019. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/KDD2019/dlADMM_main.pdf) [material](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/KDD2019/dlADMM_supplementary.pdf) [code](https://github.com/xianggebenben/dlADMM) [video](https://www.youtube.com/watch?v=J3pCqVhud_M) [slides](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/KDD2019/ADMM%20for%20Efficient%20Deep%20Learning%20with%20Global%20Convergence.pdf) [poster](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/KDD2019/poster.pdf) [Chinese media coverage](https://www.jiqizhixin.com/articles/2019-08-29-9)
