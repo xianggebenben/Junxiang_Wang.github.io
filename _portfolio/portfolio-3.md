@@ -44,8 +44,12 @@ We provide the following benchmark networks for download:
 
 @inproceedings{wang2022invertible,
   title={An invertible graph diffusion neural network for source localization},
+
   author={Wang, Junxiang and Jiang, Junji and Zhao, Liang},
+
   booktitle={Proceedings of the ACM Web Conference 2022},
+
   pages={1058--1069},
+  
   year={2022}
 }
