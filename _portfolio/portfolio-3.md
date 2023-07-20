@@ -29,7 +29,7 @@ Chen Ling, Junji Jiang, **Junxiang Wang**, My Thai, Lukas Xue, James Song, Meika
 
 In this paper, we design a novel framework DeepIM to generatively characterize the latent representation of seed sets for the influence maximization problem, and we propose to learn the diversified information diffusion pattern in a data-driven and end-to-end manner. Finally, we design a novel objective function to infer optimal seed sets under flexible node-centrality-based budget constraints.
 
-# **Datasets**
+# **Datasets for Graph Source Localization**
 
 We provide the following benchmark networks for download:
 
@@ -42,7 +42,7 @@ We provide the following benchmark networks for download:
 | Cora-ML          | 2810  | 7981  | 5.680           | 17       |  [link](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/graph_inverse_problem/cora_ml.SG)    |
 | Power  Grid      | 4941  | 6594  | 2.669           | 46       |  [link](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/graph_inverse_problem/power_grid.SG)    |
 
-[This script](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/graph_inverse_problem/information_duffsion.py) provides the simulation of information diffusion using the above networks by five diffusion models: Independent Cascade(IM), Linear Threshold(LT), Susceptible Infectious(SI), Susceptible Infectious Recovered(SIR) and Susceptible Infectious Susceptible(SIS). 
+[This script](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/graph_inverse_problem/information_duffsion.py) provides the simulation of information diffusion using the above networks by five diffusion models: Independent Cascade(IM), Linear Threshold(LT), Susceptible Infectious(SI), Susceptible Infectious Recovered(SIR) and Susceptible Infectious Susceptible(SIS). It can be used for graph source localization problems.
 
 Please cite our paper if you use our datasets in your paper:
 
