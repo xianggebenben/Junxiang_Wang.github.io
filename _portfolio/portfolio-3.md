@@ -57,3 +57,16 @@ Please cite our paper if you use our datasets in your paper:
   
   year={2022}
 }
+
+@inproceedings{ling2022source,
+
+  title={Source localization of graph diffusion via variational autoencoders for graph inverse problems},
+  
+  author={Ling, Chen and Jiang, Junji and Wang, Junxiang and Liang, Zhao},
+  
+  booktitle={Proceedings of the 28th ACM SIGKDD conference on knowledge discovery and data mining},
+  
+  pages={1010--1020},
+  
+  year={2022}
+}
