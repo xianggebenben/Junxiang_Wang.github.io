@@ -29,13 +29,23 @@ Chen Ling, Junji Jiang, **Junxiang Wang**, My Thai, Lukas Xue, James Song, Meika
 
 In this paper, we design a novel framework DeepIM to generatively characterize the latent representation of seed sets for the influence maximization problem, and we propose to learn the diversified information diffusion pattern in a data-driven and end-to-end manner. Finally, we design a novel objective function to infer optimal seed sets under flexible node-centrality-based budget constraints.
 
-Common graphs for source localization and influence maximization will be provided for download below soon. Please stay tuned.
-
-<!-- | Graph            | #Node | #Edge | Average  Degree | Diameter | Download Link |
+**Dataset**
+We provide the following benchmark networks for download:
+| Network            | #Node | #Edge | Average  Degree | Diameter | Download Link |
 |------------------|-------|-------|-----------------|----------|------|
 | Karate           | 34    | 78    | 2.294           | 5        |      |
 | Dolphins         | 62    | 159   | 5.129           | 8        |      |
 | Jazz             | 198   | 2742  | 13.848          | 9        |      |
 | Network  Science | 1589  | 2742  | 3.451           | 17       |      |
 | Cora-ML          | 2810  | 7981  | 5.680           | 17       |      |
-| Power  Grid      | 4941  | 6594  | 2.669           | 46       |      | -->
+| Power  Grid      | 4941  | 6594  | 2.669           | 46       |      |
+
+[This script]() provides the simulation of information diffusion using the above networks by five diffusion models: (IM), (LT), (SI), (SIR) and (SIS). Please cite our paper if you use our datasets in your paper:
+
+@inproceedings{wang2022invertible,
+  title={An invertible graph diffusion neural network for source localization},
+  author={Wang, Junxiang and Jiang, Junji and Zhao, Liang},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={1058--1069},
+  year={2022}
+}
