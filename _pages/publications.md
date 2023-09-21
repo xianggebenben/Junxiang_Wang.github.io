@@ -7,6 +7,8 @@ author_profile: true
 
 ## Conference Paper
 
+(16) [NeurIPS 2023]. Zheng Zhang, **Junxiang Wang** and Liang Zhao. Relational Curriculum Learning for Graph Neural Network. In proceedings of the Conference on Neural Information Processing Systems (NeurIPS 2023), (Acceptance Rate: 26.1%), New Orelans, United States December 2023.
+
 (15) [ICML 2023]. Chen Ling, Junji Jiang, **Junxiang Wang**, My Thai, Lukas Xue, James Song, Meikang Qiu, and Liang Zhao.  Deep Graph Representation Learning and Optimization for Influence Maximization. In proceedings of the International Conference on Machine Learning (ICML 2023), (acceptance rate: 27.9%), Honolulu, Hawaii, USA, July 2023. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/ICML2023/paper.pdf) [code](https://github.com/triplej0079/DeepIM)
 
 (14) [SDM 2023]. Guangji Bai, Johnny Torres, **Junxiang Wang**, Zhao Liang, Cristina Abad, and Carmen Vaca. Sign-Regularized Multi-Task Learning. in Proceedings of SIAM International Conference on Data Mining (SDM 2023), (acceptance rate: 27.4%), Minneapolis, Minn, USA, Apr 2023. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/SDM2023/paper.pdf) [code](https://github.com/BaiTheBest/SRML)
