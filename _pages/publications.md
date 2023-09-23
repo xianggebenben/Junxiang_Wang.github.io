@@ -63,22 +63,3 @@ The workshop version is in ICML 2021 Workshop on Beyond First-Order Methods in M
 
 (1) [Curr. Med. Chem]. Weiming Yu, Zhengyan Jiang, **Junxiang Wang** and Ran Tao. Using feature selection technique for drug-target interaction networks prediction. Current medicinal chemistry 18 (36), 5687-5693, (impact factor: 4.184), 2011.  [paper](https://www.ingentaconnect.com/content/ben/cmc/2011/00000018/00000036/art00014)
 
-
-
-
-
-
-
-
-## Preprint Paper
-
-
-Zheng Zhang, Sirui Li, Jingcheng Zhou, **Junxiang Wang**, Abhinav Angirekula, Allen Zhang, Liang Zhao Non-Euclidean Spatial Graph Neural Network.
-
-Chen Ling, Xujiang Zhao, Jiaying Lu, Chengyuan Deng, Can Zheng, **Junxiang Wang** et al. Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models.
-
-**Junxiang Wang**, Junji Jiang, and Liang Zhao. Deep Black-box Graph Inverse Optimization.
-
-
-**Junxiang Wang**, Hongyi Li, Liang Zhao. A Convergent ADMM Framework for Efficient Neural Network Training.
-
