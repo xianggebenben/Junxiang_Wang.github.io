@@ -77,10 +77,6 @@ Zheng Zhang, Sirui Li, Jingcheng Zhou, **Junxiang Wang**, Abhinav Angirekula, Al
 
 Chen Ling, Xujiang Zhao, Jiaying Lu, Chengyuan Deng, Can Zheng, **Junxiang Wang** et al. Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models.
 
-
-Zheng Zhang, **Junxiang Wang**, and Liang Zhao. Relational Curriculum Learning for Graph Neural Network.  
-
-
 **Junxiang Wang**, Junji Jiang, and Liang Zhao. Deep Black-box Graph Inverse Optimization.
 
 
