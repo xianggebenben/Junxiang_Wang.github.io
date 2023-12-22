@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publication
 (27) [SDM 2024]. Zheng Zhang, Sirui Li, Jingcheng Zhou, **Junxiang Wang**, Abhinav Angirekula, Allen Zhang, and Liang Zhao. Non-Euclidean Spatial Graph Neural Network. In Proceedings of SIAM International Conference on Data Mining (SDM 2024), (acceptance rate: 29.2%), Houston, TX, USA, Apr 2024.
 
 (26) [NeurIPS 2023]. Zheng Zhang, **Junxiang Wang** and Liang Zhao. Curriculum Learning for Graph Neural Networks: Which Edges Should We Learn First. In proceedings of the Conference on Neural Information Processing Systems (NeurIPS 2023), (Acceptance Rate: 26.1%), New Orelans, USA, December 2023. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/NeurIPS2023/paper.pdf) [code](https://github.com/rollingstonezz/Curriculum_learning_for_GNNs) [poster](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/NeurIPS2023/NIPS2023_poster.jfif)
