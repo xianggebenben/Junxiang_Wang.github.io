@@ -13,7 +13,7 @@ Email: junxiang.wang@alumni.emory.edu
 
 News
 =======
-2024/3: Our LLM domain specialization survey paper has been cited in the [2024 Economic Report of the President](https://whitehouse.us10.list-manage.com/track/click?u=364709d40b85d85d91c69c070&id=c6b723372d&e=ce2f3e52e8).
+2024/3: Our [LLM domain specialization survey paper](https://arxiv.org/abs/2305.18703) has been cited in the [2024 Economic Report of the President](https://whitehouse.us10.list-manage.com/track/click?u=364709d40b85d85d91c69c070&id=c6b723372d&e=ce2f3e52e8).
 
 2023/9: One paper is accepted by NeurIPS 2023.
 
