@@ -71,3 +71,7 @@ Please cite our paper if you use our datasets in your paper:
   
   year={2022}
 }
+
+
+# **Python Library for Graph Source Localization**
+A new Python library [GraphSL](https://github.com/xianggebenben/GraphSL) is developed to support the research of the raph source localization problem. The documentation is available [here](https://graphsl.readthedocs.io/en/latest/#). Feel free to contact me if you have any questions.
