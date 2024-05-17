@@ -4,8 +4,9 @@ title: "Publication"
 permalink: /publications/
 author_profile: true
 ---
+(28) [KDD 2024]. **Junxiang Wang**, Guangji Bai, Wei Cheng, Zhengzhang Chen, Liang Zhao, and Haifeng Chen. POND: Multi-Source Time Series Domain Adaptation with Information-Aware Prompt Tuning. In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), research track (acceptance rate: 20.0%), Barcelona, Spain, Aug 2024.
 
-<!-- (27) [SDM 2024]. Zheng Zhang, Sirui Li, Jingcheng Zhou, **Junxiang Wang**, Abhinav Angirekula, Allen Zhang, and Liang Zhao. Non-Euclidean Spatial Graph Neural Network. In Proceedings of SIAM International Conference on Data Mining (SDM 2024), (acceptance rate: 29.2%), Houston, TX, USA, Apr 2024. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/SDM2024/paper.pdf) -->
+(27) [SDM 2024]. Zheng Zhang, Sirui Li, Jingcheng Zhou, **Junxiang Wang**, Abhinav Angirekula, Allen Zhang, and Liang Zhao. Non-Euclidean Spatial Graph Neural Network. In Proceedings of SIAM International Conference on Data Mining (SDM 2024), (acceptance rate: 29.2%), Houston, TX, USA, Apr 2024. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/SDM2024/paper.pdf)
 
 (26) [NeurIPS 2023]. Zheng Zhang, **Junxiang Wang** and Liang Zhao. Curriculum Learning for Graph Neural Networks: Which Edges Should We Learn First. In proceedings of the Conference on Neural Information Processing Systems (NeurIPS 2023), (Acceptance Rate: 26.1%), New Orelans, USA, December 2023. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/NeurIPS2023/paper.pdf) [code](https://github.com/rollingstonezz/Curriculum_learning_for_GNNs) [poster](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/NeurIPS2023/NIPS2023_poster.jfif)
 
