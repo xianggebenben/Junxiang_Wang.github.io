@@ -4,6 +4,8 @@ title: "Publication"
 permalink: /publications/
 author_profile: true
 ---
+(29) [ICML WS 2024]. Chengyuan Deng, Zhengzhang Chen, Xujiang Zhao, Haoyu Wang, **Junxiang Wang**, Haifeng Chen, and Jie Gao. RIO-CPD: A Riemannian Geometric Method for Correlation-aware Online Change Point Detection. ICML 2024 workshop on Geometry-grounded Representation Learning and Generative Modeling.
+
 (28) [KDD 2024]. **Junxiang Wang**, Guangji Bai, Wei Cheng, Zhengzhang Chen, Liang Zhao, and Haifeng Chen. POND: Multi-Source Time Series Domain Adaptation with Information-Aware Prompt Tuning. In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), research track (acceptance rate: 20.0%), Barcelona, Spain, Aug 2024. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/KDD2024/Mulit_source_prompt_for_domain_adapatation_KDD_2024.pdf) [supp](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/KDD2024/supp.pdf)
 
 (27) [SDM 2024]. Zheng Zhang, Sirui Li, Jingcheng Zhou, **Junxiang Wang**, Abhinav Angirekula, Allen Zhang, and Liang Zhao. Non-Euclidean Spatial Graph Neural Network. In Proceedings of SIAM International Conference on Data Mining (SDM 2024), (acceptance rate: 29.2%), Houston, TX, USA, Apr 2024. [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/SDM2024/paper.pdf)
