@@ -4,7 +4,7 @@ title: "Publication"
 permalink: /publications/
 author_profile: true
 ---
-(31) [NN]. Tanmoy Chowdhury, Chen Ling, Junji Jiang, **Junxiang Wang**, My T. Thai, and Liang Zhao. Deep Graph Representation Learning Influence Maximization with Accelerated Inference. Neural Networks, (impact factor: 6.0).
+(30) [NN]. Tanmoy Chowdhury, Chen Ling, Junji Jiang, **Junxiang Wang**, My T. Thai, and Liang Zhao. Deep Graph Representation Learning Influence Maximization with Accelerated Inference. Neural Networks, (impact factor: 6.0).
 
 <!---(30) [JOSS]. **Junxiang Wang**, and Liang Zhao. GraphSL: An Open-Source Library for Graph Source Localization Approaches and Benchmark Datasets. Journal of Open Source Software, 9(99), 6796, (impact factor: 4.7). [paper](https://github.com/xianggebenben/Junxiang_Wang.github.io/tree/master/supplementary_material/JOSS2024/paper.pdf) [code](https://github.com/xianggebenben/GraphSL) [documentation](https://graphsl.readthedocs.io/en/latest/#) [![Downloads](https://pepy.tech/badge/graphsl)](https://pepy.tech/project/graphsl) 
 -->
