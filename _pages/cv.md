@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-[CV.pdf](https://github.com/xianggebenben/Junxiang_Wang.github.io/blob/master/supplementary_material/Resume.pdf)
 
 Education
 ======
@@ -24,8 +21,6 @@ Experience
 
 * 2017-2022: Research Assistant
   * George Mason University and Emory University
-
-* 2012-2015: Database Developer
 
 
 Research Interests
